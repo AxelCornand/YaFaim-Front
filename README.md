@@ -1,5 +1,11 @@
 # projet-11-y-a-faim-front
 
+Le site Y'a Faim a été pensée et crée pour des personnes qui ne veulent plus réfléchir à quoi faire à manger chez eux et comment .
+
+Ce site permet quand on est inscrit et connecté de pouvoir rentrer des ingrédients pour afficher des listes de recettes qui contiennent ces ingrédients avec toute les instructions nécéssaires pour la réaliser.
+
+Le coté Front a été codé avec React qui communique avec le back (YaFaim-Back) qui lui a été codé avec Symfony.
+
 Installation du React Model
 
 Installation de React Rooter Dom
