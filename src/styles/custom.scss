@@ -1,0 +1,14 @@
+$theme-colors: (
+    "navyblue": #4a536b,
+    "lightnavyblue": #7c8aaf,
+    "darknavyblue": #272c38,
+    "salmon":#ff9a8d,
+    "darksalmon":#a84235,
+    "meerschaum":#aed6dc,
+    "primary":rgb(47, 47, 168),
+    "secondary":rgb(161, 161, 161),   
+    "danger":red,
+    "success":rgb(31, 150, 22),   
+);
+
+@import "~bootstrap/scss/bootstrap";

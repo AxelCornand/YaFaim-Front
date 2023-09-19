@@ -1,0 +1,34 @@
+ .prepIngredient {
+
+   display: flex;
+   align-items: flex-start;
+   flex-direction: row-reverse;
+   justify-content: center;
+
+   @media screen and (max-width: 700px) {
+
+     flex-direction: column;
+
+   }
+
+ }
+
+ .ingredient {
+
+   width: 60%;
+
+   @media screen and (max-width: 700px) {
+
+     width: 95%;
+
+   }
+ }
+
+ .preptime {
+
+  @media screen and (max-width: 700px) {
+
+    width: 95%;
+    
+  }
+}
